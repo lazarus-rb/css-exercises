@@ -1,0 +1,19 @@
+.odd {
+    background-color: palevioletred;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Line2 {
+    font-size:36px;
+    color: blue;
+}
+
+.adjust-font {
+    font-size:24px;   
+}
+
+#Line4 {
+    font-weight:bold;
+    font-size: 24px;
+    background-color: lightgreen;
+}
