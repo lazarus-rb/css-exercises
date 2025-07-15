@@ -32,24 +32,20 @@ body {
   flex-direction: column;
 }
 
-.header {
+.header, .footer {
   display:flex;
-  align-items: flex-start;
 }
 
 .footer {
-  display:flex;
-  align-items: flex-end;
   background-color: #eeeeee;
   margin-top: auto;
 }
 
 .content {
+  flex:1;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: auto;
-  margin-bottom: auto;
   flex-direction: column;
 }
 
